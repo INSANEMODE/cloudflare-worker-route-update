@@ -1,7 +1,7 @@
 # action.yml
 name: 'Cloudflare Workers route update'
 description: 'A Cloudflare worker action to change worker route between other steps'
-author: Aakash Goel
+author: Aakash Goel (forked by INSANEMODE)
 branding:
   icon: 'cloud'
   color: 'orange'
