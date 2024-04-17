@@ -1,5 +1,5 @@
 # action.yml
-name: 'Cloudflare Workers route update'
+name: 'Cloudflare Workers route update (INSANEMODE fork)'
 description: 'A Cloudflare worker action to change worker route between other steps'
 author: Aakash Goel (forked by INSANEMODE)
 branding:
